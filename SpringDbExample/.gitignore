@@ -8,6 +8,9 @@
 
 # ============ Java & Eclipse .gitignore ============
 .metadata
+.mvn/wrapper
+mvnw
+mvnw.cmd
 bin/
 tmp/
 *.tmp
