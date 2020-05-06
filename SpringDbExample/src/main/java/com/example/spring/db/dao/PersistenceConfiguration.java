@@ -25,7 +25,7 @@ public class PersistenceConfiguration {
 	public DataSource dataSource() {
 		//@formatter:off
 		return DataSourceBuilder.create()
-				.url("jdbc:mysql://localhost:3306/testdb?createDatabaseIfNotExist=true&useSSL=false")
+				.url("jdbc:mysql://localhost:3306/testdb?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true")
 				.driverClassName("com.mysql.cj.jdbc.Driver")
 				.username("root")
 				.password("max123")
