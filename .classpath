@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SpringDbExample/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringDbExample/SpringBootRabbitMQHelloWorld/src/main/java"/>
+	<classpathentry kind="output" path="SpringDbExample/SpringBootRabbitMQHelloWorld/target/classes"/>
+</classpath>
